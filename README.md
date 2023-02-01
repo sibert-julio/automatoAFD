@@ -1,7 +1,7 @@
 # automatoAFD
 automato finito deterministico em java.
 Ao rodar o automato utilizar letras minusculas 
-Entradas aceitas.
+Ex de Entradas aceitas.
 (abc,
  abbc,
  abbbc,
